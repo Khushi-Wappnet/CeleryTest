@@ -1,0 +1,7 @@
+django==5.1.7
+Celery==5.2.7
+django-celery-beat==2.4.0
+redis==4.5.5
+psycopg2-binary==2.9.10
+python-decouple==3.8
+django-environ==0.12.0
